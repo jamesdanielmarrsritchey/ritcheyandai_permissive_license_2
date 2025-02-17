@@ -1,0 +1,1 @@
+# ritcheyandai_permissive_license_2
