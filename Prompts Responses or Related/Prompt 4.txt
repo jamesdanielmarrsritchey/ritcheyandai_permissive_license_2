@@ -1,0 +1,1 @@
+Don't just require a copy of the license in substantial portions. Require it with any portions. The part about sublicening must state that it is sublicensed under this license. Performances of the work must be considered a form of End-User Product.

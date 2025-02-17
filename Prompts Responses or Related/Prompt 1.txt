@@ -1,0 +1,7 @@
+Write a permissive license, which:
+- Works for any type of content, not just software code.
+- Requires a copy of the license to be distributed with any copies of the Creative Work.
+- Defines "Creative Work".
+- Requires that if the Creative Work is source code, any compiled versions of the software must inform the user that its under that license, and require them to acknowledge this, before it will do anything.
+- Requires that if the Creative Work is material that is not intended to be viewed by end-users in its current form (e.g. a movie's project files), must require exports that are viewing friendly (e.g. the exported finished movie) to display a message informing the viewer that it is under the license.
+- Has a disclaimer that makes it clear the Creative Work is provided AS IS to the maximum extend permitted under applicable law.

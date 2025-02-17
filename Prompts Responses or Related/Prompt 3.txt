@@ -1,0 +1,1 @@
+The aspects of the license related to compiled versions, and viewing-friendly versions are a bit overlapping. Let's combine them into a single term called "End-User Products" which refers to products created from the Creative Work that are in a form that is ready to be viewed, run, or used by end-users.

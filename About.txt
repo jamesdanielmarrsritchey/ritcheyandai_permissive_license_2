@@ -1,0 +1,12 @@
+Name: Ritchey & AI Permissive License 2
+Version: 1
+Long Identifier: Ritchey & AI Permissive License 2 v1
+Short Identifier: R&AIPL2v1
+Description: A permissive license.
+History:
+ - Version 1 completed February 16, 2025.
+Author: James Daniel Marrs Ritchey
+Licensing: This project is hereby dedicated to the Public Domain using the Ritchey Public Domain Dedication v1 dedication.
+Notes:
+ - This project was developed in part by using AI, specifically ChatGPT, via a ChatGPT Plus plan.
+ - IANAL (I am not a lawyer).
